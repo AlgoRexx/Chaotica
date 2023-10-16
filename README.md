@@ -1,4 +1,4 @@
-# Chaotica[https://anand-o.itch.io/world-of-chaotica]
+# Chaotica(https://anand-o.itch.io/world-of-chaotica)
 A Game built on GoDot
 
 ### A game where you avoid the enemies and collect gems to progress through the levels.
